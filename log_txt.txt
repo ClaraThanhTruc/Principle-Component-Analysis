@@ -1,0 +1,22 @@
+File 1:
+  Avg MSE: 0.004012185355689398
+  Avg Explained Variance: 95.08236728868461
+
+File 2:
+  Avg MSE: 0.008539798840442417
+  Avg Explained Variance: 80.38016887954491
+
+File 3:
+  Avg MSE: 0.012885249311534114
+  Avg Explained Variance: 80.98245324336453
+
+File 4:
+  Avg MSE: 0.018369414629687036
+  Avg Explained Variance: 81.30905897854296
+
+File 5:
+  Avg MSE: (0.003436121710109636+0j)
+  Avg Explained Variance: 95.89828443084068
+
+Mean Error (MSE): (0.009448553969492521+0j)
+Mean Explained Variance: 86.73046656419554

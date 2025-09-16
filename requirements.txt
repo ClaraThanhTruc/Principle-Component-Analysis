@@ -1,0 +1,19 @@
+# This is all the libraries you need to pip install if you want to run the project
+nltk
+numpy
+pandas
+scikit-learn
+python-docx
+pdfplumber
+beautifulsoup4
+librosa
+opencv-python
+lxml
+PyMuPDF
+soundfile
+opencv-python
+matplotlib
+json
+docx
+opencv-python
+# And anther libs
